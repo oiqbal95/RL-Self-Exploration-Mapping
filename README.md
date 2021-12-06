@@ -64,18 +64,7 @@ make
     tensorboard --logdir=log
     ```
 
-## Cite
 
-Please cite [our paper](https://www.researchgate.net/profile/Fanfei_Chen/publication/330200308_Self-Learning_Exploration_and_Mapping_for_Mobile_Robots_via_Deep_Reinforcement_Learning/links/5d6e7ad4a6fdccf93d381d2e/Self-Learning-Exploration-and-Mapping-for-Mobile-Robots-via-Deep-Reinforcement-Learning.pdf) if you use any of this code: 
-```
-@inproceedings{ExplorDRL2019,
-  title={Self-Learning Exploration and Mapping for Mobile Robots via Deep Reinforcement Learning},
-  author={Chen, Fanfei and Bai, Shi and Shan, Tixiao and Englot, Brendan},
-  booktitle={AIAA SciTech Forum},
-  pages={0396},
-  year={2019},
-}
-```
 
 ## Reference
 - [DeepRL-Agents](https://github.com/awjuliani/DeepRL-Agents)
